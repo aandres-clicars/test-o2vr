@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vrobject>
+  <input states="1" windowheight="426" width="1280" imagepath="images" preview="4" windowwidth="640" height="852" preload="1" columns="26" rows="1" fileextension="jpg"/>
+  <control simulatemass="1" lockedmouse="0" swapxy="0" lockedkeyboard="0" dblclickfullscreen="0" revx="0" invertwheel="0" revy="0" wrapx="1" wrapy="0" trapwheel="1" automovemode="1" lockedwheel="0" speedwheel="1.000" controller="1" sensitivity="10"/>
+  <view>
+    <start row="0" column="13" state="0"/>
+    <zoom default="1.000" centerx="0.00000" centery="0.00000" min="1" max="2.000"/>
+    <viewer imagescaling="1" backgroundcolor="0xffffff" background="1"/>
+  </view>
+  <autorotate speed="1.000" delay="5.00" start="0"/>
+  <userdata title="" datetime="" description="" copyright="" author="" source="" comment="" info=""/>
+  <qthotspots enabled="0" reuse="8">
+    <label width="180" backgroundalpha="1.000" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1.000" borderradius="1" wordwrap="1" textalpha="1.000"/>
+  </qthotspots>
+  <hotspots>
+    <label width="180" backgroundalpha="1.000" enabled="0" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1.000" borderradius="1" wordwrap="1" textalpha="1.000"/>
+    <polystyle mode="0" backgroundalpha="0.251" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1.000"/>
+    <hotspot title="" target="" skinid="" url="" id="maletero" reuse="0">
+      <location x="0.263088" y="0.442407" row="0" column="0" state="0"/>
+      <location x="0.191337" y="0.418493" row="0" column="1" state="0"/>
+      <location x="0.116928" y="0.418493" row="0" column="2" state="0"/>
+      <location x="0.0930109" y="0.410522" row="0" column="3" state="0"/>
+      <location x="0.0983258" y="0.406536" row="0" column="4" state="0"/>
+      <location x="0.114271" y="0.390594" row="0" column="5" state="0"/>
+      <location x="0.14616" y="0.378637" row="0" column="6" state="0"/>
+      <location x="0.810524" y="0.382623" row="0" column="16" state="0"/>
+      <location x="0.847728" y="0.390594" row="0" column="17" state="0"/>
+      <location x="0.874302" y="0.394579" row="0" column="18" state="0"/>
+      <location x="0.874302" y="0.406536" row="0" column="19" state="0"/>
+      <location x="0.879617" y="0.402551" row="0" column="20" state="0"/>
+      <location x="0.831783" y="0.418493" row="0" column="21" state="0"/>
+      <location x="0.754717" y="0.434436" row="0" column="22" state="0"/>
+      <location x="0.643104" y="0.43045" row="0" column="23" state="0"/>
+      <location x="0.518204" y="0.422479" row="0" column="24" state="0"/>
+      <location x="0.403933" y="0.426465" row="0" column="25" state="0"/>
+    </hotspot>
+    <hotspot title="" target="" skinid="" url="" id="ruedatraseradcha" reuse="0">
+      <location x="0.550093" y="0.653647" row="0" column="0" state="0"/>
+      <location x="0.45974" y="0.649661" row="0" column="1" state="0"/>
+      <location x="0.372044" y="0.653647" row="0" column="2" state="0"/>
+      <location x="0.289663" y="0.637704" row="0" column="3" state="0"/>
+      <location x="0.239171" y="0.625747" row="0" column="4" state="0"/>
+      <location x="0.209939" y="0.605819" row="0" column="5" state="0"/>
+      <location x="0.209939" y="0.581905" row="0" column="6" state="0"/>
+      <location x="0.199309" y="0.554006" row="0" column="7" state="0"/>
+      <location x="0.244486" y="0.546034" row="0" column="8" state="0"/>
+    </hotspot>
+    <hotspot title="" target="" skinid="" url="" id="ruedadelanteradcha" reuse="0">
+      <location x="0.786606" y="0.557991" row="0" column="1" state="0"/>
+      <location x="0.813181" y="0.561977" row="0" column="2" state="0"/>
+      <location x="0.823811" y="0.589876" row="0" column="3" state="0"/>
+      <location x="0.826468" y="0.609805" row="0" column="4" state="0"/>
+      <location x="0.794579" y="0.629733" row="0" column="5" state="0"/>
+      <location x="0.733457" y="0.649661" row="0" column="6" state="0"/>
+      <location x="0.651076" y="0.661618" row="0" column="7" state="0"/>
+      <location x="0.558065" y="0.677561" row="0" column="8" state="0"/>
+      <location x="0.430508" y="0.669589" row="0" column="9" state="0"/>
+    </hotspot>
+    <hotspot title="" target="" skinid="" url="https://jbcustoms.es/public/images/productos/1332/img_5623-1576755837.jpg" id="capo" reuse="0">
+      <location x="0.853043" y="0.450379" row="0" column="3" state="0"/>
+      <location x="0.868988" y="0.45835" row="0" column="4" state="0"/>
+      <location x="0.853043" y="0.462336" row="0" column="5" state="0"/>
+      <location x="0.884932" y="0.490235" row="0" column="6" state="0"/>
+      <location x="0.868988" y="0.498206" row="0" column="7" state="0"/>
+      <location x="0.813181" y="0.498206" row="0" column="8" state="0"/>
+      <location x="0.714855" y="0.506178" row="0" column="9" state="0"/>
+      <location x="0.58464" y="0.52212" row="0" column="10" state="0"/>
+      <location x="0.446452" y="0.510163" row="0" column="11" state="0"/>
+      <location x="0.326867" y="0.514149" row="0" column="12" state="0"/>
+      <location x="0.231199" y="0.498206" row="0" column="13" state="0"/>
+      <location x="0.14616" y="0.48625" row="0" column="14" state="0"/>
+      <location x="0.122243" y="0.466321" row="0" column="15" state="0"/>
+      <location x="0.127558" y="0.45835" row="0" column="16" state="0"/>
+      <location x="0.14616" y="0.442407" row="0" column="17" state="0"/>
+      <location x="0.175392" y="0.438422" row="0" column="18" state="0"/>
+    </hotspot>
+  </hotspots>
+</vrobject>
